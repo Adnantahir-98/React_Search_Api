@@ -30,7 +30,7 @@ function App() {
     <div className='App'>
 
       <h1>
-        <code>Multi-Function React Table Search Filter</code>
+        <code>Multi-Function React API Search Filter</code>
       </h1>
 
       <input 
